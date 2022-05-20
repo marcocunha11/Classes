@@ -1,0 +1,13 @@
+H:\POO\Classes_MarcoHenrique\bin\Debug\Classes_MarcoHenrique.exe.config
+H:\POO\Classes_MarcoHenrique\bin\Debug\Classes_MarcoHenrique.exe
+H:\POO\Classes_MarcoHenrique\bin\Debug\Classes_MarcoHenrique.pdb
+H:\POO\Classes_MarcoHenrique\obj\Debug\Classes_MarcoHenrique.csproj.AssemblyReference.cache
+H:\POO\Classes_MarcoHenrique\obj\Debug\Classes_MarcoHenrique.csproj.SuggestedBindingRedirects.cache
+H:\POO\Classes_MarcoHenrique\obj\Debug\Classes_MarcoHenrique.FrmAlimento.resources
+H:\POO\Classes_MarcoHenrique\obj\Debug\Classes_MarcoHenrique.Properties.Resources.resources
+H:\POO\Classes_MarcoHenrique\obj\Debug\Classes_MarcoHenrique.csproj.GenerateResource.cache
+H:\POO\Classes_MarcoHenrique\obj\Debug\Classes_MarcoHenrique.csproj.CoreCompileInputs.cache
+H:\POO\Classes_MarcoHenrique\obj\Debug\Classes_MarcoHenrique.exe
+H:\POO\Classes_MarcoHenrique\obj\Debug\Classes_MarcoHenrique.pdb
+H:\POO\Classes_MarcoHenrique\obj\Debug\Classes_MarcoHenrique.FrmPrefeito.resources
+H:\POO\Classes_MarcoHenrique\obj\Debug\Classes_MarcoHenrique.FrmLoja.resources
